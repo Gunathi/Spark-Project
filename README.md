@@ -31,4 +31,4 @@ To run this project locally or on Databricks, ensure you have the following prer
    Clone this repository to your local machine or Databricks workspace:
 
    ```bash
-   git clone https://github.com/<your-username>/<repo-name>.git
+   git clone https://github.com/Gunathi/Spark-Project.git
